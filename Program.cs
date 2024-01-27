@@ -4,7 +4,7 @@
     var j = 0;
     var name = "user";
     Console.Clear();
-    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Hello, welcome to the multiplication training program");
     Console.Write("Would you like to say your name?");
     var getname = Console.ReadLine();
